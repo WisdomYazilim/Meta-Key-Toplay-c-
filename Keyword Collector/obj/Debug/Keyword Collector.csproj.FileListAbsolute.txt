@@ -1,0 +1,35 @@
+C:\Users\yesim\source\repos\Keyword Collector\Keyword Collector\bin\Debug\Keyword Collector.exe.config
+C:\Users\yesim\source\repos\Keyword Collector\Keyword Collector\bin\Debug\Keyword Collector.exe
+C:\Users\yesim\source\repos\Keyword Collector\Keyword Collector\bin\Debug\Keyword Collector.pdb
+C:\Users\yesim\source\repos\Keyword Collector\Keyword Collector\bin\Debug\HtmlAgilityPack.dll
+C:\Users\yesim\source\repos\Keyword Collector\Keyword Collector\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\yesim\source\repos\Keyword Collector\Keyword Collector\bin\Debug\HtmlAgilityPack.xml
+C:\Users\yesim\source\repos\Keyword Collector\Keyword Collector\obj\Debug\Keyword Collector.csprojAssemblyReference.cache
+C:\Users\yesim\source\repos\Keyword Collector\Keyword Collector\obj\Debug\Keyword_Collector.Form1.resources
+C:\Users\yesim\source\repos\Keyword Collector\Keyword Collector\obj\Debug\Keyword_Collector.Properties.Resources.resources
+C:\Users\yesim\source\repos\Keyword Collector\Keyword Collector\obj\Debug\Keyword Collector.csproj.GenerateResource.cache
+C:\Users\yesim\source\repos\Keyword Collector\Keyword Collector\obj\Debug\Keyword Collector.csproj.CopyComplete
+C:\Users\yesim\source\repos\Keyword Collector\Keyword Collector\obj\Debug\Keyword Collector.exe
+C:\Users\yesim\source\repos\Keyword Collector\Keyword Collector\obj\Debug\Keyword Collector.pdb
+C:\Users\yesim\source\repos\Keyword Collector\Keyword Collector\bin\Debug\WebDriver.dll
+C:\Users\yesim\source\repos\Keyword Collector\Keyword Collector\bin\Debug\WebDriver.Support.dll
+C:\Users\yesim\source\repos\Keyword Collector\Keyword Collector\bin\Debug\WebDriver.xml
+C:\Users\yesim\source\repos\Keyword Collector\Keyword Collector\bin\Debug\WebDriver.Support.xml
+C:\Users\bvnmv\Desktop\DİNÇER ELEKTRONİK\Keyword Collector\Keyword Collector\Keyword Collector\obj\Debug\Keyword Collector.csprojAssemblyReference.cache
+C:\Users\bvnmv\Desktop\DİNÇER ELEKTRONİK\Keyword Collector\Keyword Collector\Keyword Collector\obj\Debug\Keyword_Collector.Form1.resources
+C:\Users\bvnmv\Desktop\DİNÇER ELEKTRONİK\Keyword Collector\Keyword Collector\Keyword Collector\obj\Debug\Keyword_Collector.Properties.Resources.resources
+C:\Users\bvnmv\Desktop\DİNÇER ELEKTRONİK\Keyword Collector\Keyword Collector\Keyword Collector\obj\Debug\Keyword Collector.csproj.GenerateResource.cache
+C:\Users\bvnmv\Desktop\DİNÇER ELEKTRONİK\Keyword Collector\Keyword Collector\Keyword Collector\obj\Debug\Keyword Collector.csproj.CoreCompileInputs.cache
+C:\Users\bvnmv\Desktop\DİNÇER ELEKTRONİK\Keyword Collector\Keyword Collector\Keyword Collector\obj\Debug\Keyword Collector.exe
+C:\Users\bvnmv\Desktop\DİNÇER ELEKTRONİK\Keyword Collector\Keyword Collector\Keyword Collector\obj\Debug\Keyword Collector.pdb
+C:\Users\bvnmv\Desktop\DİNÇER ELEKTRONİK\Keyword Collector\Keyword Collector\Keyword Collector\bin\Debug\Keyword Collector.exe.config
+C:\Users\bvnmv\Desktop\DİNÇER ELEKTRONİK\Keyword Collector\Keyword Collector\Keyword Collector\bin\Debug\Keyword Collector.exe
+C:\Users\bvnmv\Desktop\DİNÇER ELEKTRONİK\Keyword Collector\Keyword Collector\Keyword Collector\bin\Debug\Keyword Collector.pdb
+C:\Users\bvnmv\Desktop\DİNÇER ELEKTRONİK\Keyword Collector\Keyword Collector\Keyword Collector\bin\Debug\HtmlAgilityPack.dll
+C:\Users\bvnmv\Desktop\DİNÇER ELEKTRONİK\Keyword Collector\Keyword Collector\Keyword Collector\bin\Debug\WebDriver.dll
+C:\Users\bvnmv\Desktop\DİNÇER ELEKTRONİK\Keyword Collector\Keyword Collector\Keyword Collector\bin\Debug\WebDriver.Support.dll
+C:\Users\bvnmv\Desktop\DİNÇER ELEKTRONİK\Keyword Collector\Keyword Collector\Keyword Collector\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\bvnmv\Desktop\DİNÇER ELEKTRONİK\Keyword Collector\Keyword Collector\Keyword Collector\bin\Debug\HtmlAgilityPack.xml
+C:\Users\bvnmv\Desktop\DİNÇER ELEKTRONİK\Keyword Collector\Keyword Collector\Keyword Collector\bin\Debug\WebDriver.xml
+C:\Users\bvnmv\Desktop\DİNÇER ELEKTRONİK\Keyword Collector\Keyword Collector\Keyword Collector\bin\Debug\WebDriver.Support.xml
+C:\Users\bvnmv\Desktop\DİNÇER ELEKTRONİK\Keyword Collector\Keyword Collector\Keyword Collector\obj\Debug\Keyword Collector.csproj.CopyComplete
